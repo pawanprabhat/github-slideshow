@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
----
-Your text
+title: "Welcome to our second slide
+
+This is Pawan Prabhat
 Use the left most arrow to go a lot back!
